@@ -1,0 +1,10 @@
+atividade-ci-docker
+│
+├── .github
+│   └── workflows
+│       └── docker.yml
+│
+├── Dockerfile
+├── index.js
+├── package.json
+└── package-lock.json
